@@ -1,10 +1,10 @@
 <h1 align="center"> :large_orange_diamond: Hi there! :large_orange_diamond:</h1>
   
- ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0B6623&size=34&center=true&vCenter=true&width=1000&lines=📗+Dev+in+progress+:📗;Aspiring+fullstack+developer+🔋🔋;)
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0B6623&size=34&center=true&vCenter=true&width=1000&lines=📗+Dev+in+progress+📗;Aspiring+fullstack+developer+🔋🔋;Argentinian🌎)
  </h1> 
  
 ## :arrow_right: How to reach me?
-<a href="[https://www.linkedin.com/in/leonardo-caimmi/](https://www.linkedin.com/in/federico-sol%C3%A1-392b67241/)" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
+<a href="(https://www.linkedin.com/in/federico-sol%C3%A1-392b67241/)" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
 <!------------------------------------------------------------------------------------------------------>
 
 ## :arrow_right: Profile views
