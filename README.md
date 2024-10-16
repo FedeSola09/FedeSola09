@@ -1,6 +1,6 @@
 <h1 align="center"> :large_orange_diamond: Hi there! :large_orange_diamond:</h1>
   
- ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0B6623&size=34&center=true&vCenter=true&width=1000&lines=:green_book:+Dev+in+progress+:green_book:;Aspiring+fullstack+developer+:battery:+:battery:;)
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0B6623&size=34&center=true&vCenter=true&width=1000&lines=📗+Dev+in+progress+:📗;Aspiring+fullstack+developer+🔋🔋;)
  </h1> 
  
 ## :arrow_right: How to reach me?
