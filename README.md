@@ -4,8 +4,8 @@
  </h1> 
  
 ## :arrow_right: How to reach me?
-<a href="(https://www.linkedin.com/in/federico-sol%C3%A1-392b67241/)" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+<a href="(https://www.linkedin.com/in/federico-sol%C3%A1-392b67241/)" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 <!------------------------------------------------------------------------------------------------------>
 
 ## :arrow_right: Profile views
