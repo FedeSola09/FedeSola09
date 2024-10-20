@@ -16,7 +16,6 @@
 <ul>
   <li>:round_pushpin: Java (OOP, UML, Encapsulation, Inheritance, Polymorphism, Abstraction, Modularization, Abstract classes, Collections, Generics, Exceptions, Files, JSON)</li>
   <li>:round_pushpin: C (Structured Programming, Arrays, Pointers, Dynamic structures)</li>
-  <li>:round_pushpin: Currently learning Git & GitHub</li>
   <li>:round_pushpin: Problem solving, Agile methodologies, Soft skills</li>
   <li>:round_pushpin: Currently in my second semester</li>
 </ul>
