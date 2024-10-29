@@ -21,7 +21,7 @@
 </ul>
 <!------------------------------------------------------------------------------------------------------>
 
-## :arrow_right: Hobbys
+## :arrow_right: Hobbies
 <ul>
   <li>GYM training</li>
   <li>Videogames</li>
