@@ -4,7 +4,9 @@
  </h1> 
  
 ## :arrow_right: How to reach me?
-<a href="(https://www.linkedin.com/in/federico-sol%C3%A1-392b67241/)" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/federico-sola-dev/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
 <!------------------------------------------------------------------------------------------------------>
 
